@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276225067195",
+    "firebase_url": "https://bakery-f993e.firebaseio.com",
+    "project_id": "bakery-f993e",
+    "storage_bucket": "bakery-f993e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276225067195:android:c0c6002c49c177c08e419e",
+        "android_client_info": {
+          "package_name": "com.justice.bakery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276225067195-g1rto4ltgpi9ag6euns7ekubiivub1m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justice.bakery",
+            "certificate_hash": "a750750b75522391484378f5e5806f12824dc71e"
+          }
+        },
+        {
+          "client_id": "276225067195-u2tqf8sobd5ek57904uk007vv2gejoov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuSAECaiyZwXwpGqpvXUbUMj2T5qXPdSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276225067195-u2tqf8sobd5ek57904uk007vv2gejoov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

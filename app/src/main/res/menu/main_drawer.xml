@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Select Category">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/allMenu"
+                    android:title="All" />
+
+                <item
+                    android:id="@+id/cakeMenu"
+                    android:title="Cake" />
+                <item
+                    android:id="@+id/pastriesMenu"
+                    android:title="Pastries"
+                    app:showAsAction="never" />
+                <item
+                    android:id="@+id/cookiesMenu"
+                    android:title="Cookies" />
+                <item
+                    android:id="@+id/breadMenu"
+                    android:title="Breads" />
+
+            </group>
+
+
+        </menu>
+    </item>
+
+
+    <item
+        android:id="@+id/cartMenu"
+        android:title="Cart" />
+
+</menu>
